@@ -78,8 +78,9 @@ function draw() {
   ground.display();
   stand1.display();
   stand2.display();
-  strokeWeight();
+  strokeWeight(2);
   stroke(15);
+  
   fill("skyblue");
   block1.display();
   block2.display();
